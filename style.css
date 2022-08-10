@@ -1,0 +1,27 @@
+il {
+font-size:50px  ;
+color: blue;
+background-color: black;
+display: inline;
+padding-left:220px  ;
+border: 5px ;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.home{
+    background-color: tomato;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+img{
+    width: 50%;
+    margin-left: 30%;
+}
+i{
+    font-size: 50; 
+    color: bisque;
+}
+}
